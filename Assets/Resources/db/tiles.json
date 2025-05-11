@@ -1,0 +1,270 @@
+{
+    "shell": {
+      "Etalon": {
+        "Id": "shell",
+        "Durability": 9.0
+      }
+    },
+    "hard": {
+      "Etalon": {
+        "Id": "hard",
+        "Durability": 5.0
+      }
+    },
+    "soft": {
+      "Etalon": {
+        "Id": "soft",
+        "Durability": 2.0,
+        "ApplyPower": 0.0
+      }
+    },
+    "copper_ore": {
+      "Etalon": {
+        "Id": "copper_ore",
+        "Durability": 3.0,
+        "Drop": {
+          "Id": "copper_ore",
+          "Tags": [
+            {
+              "Id": "ore",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 1,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "weak",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "iron_ore": {
+      "Etalon": {
+        "Id": "iron_ore",
+        "Durability": 6.0,
+        "Drop": {
+          "Id": "iron_ore",
+          "Tags": [
+            {
+              "Id": "ore",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 1,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "strong",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "coal": {
+      "Etalon": {
+        "Id": "coal",
+        "Durability": 2.0,
+        "Drop": {
+          "Id": "coal",
+          "Tags": [
+            {
+              "Id": "fuel",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 1,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "gold_ore": {
+      "Etalon": {
+        "Id": "gold_ore",
+        "Durability": 6.0,
+        "Drop": {
+          "Id": "gold_ore",
+          "Tags": [
+            {
+              "Id": "ore",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 2,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "weak",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "platinum_ore": {
+      "Etalon": {
+        "Id": "platinum_ore",
+        "Durability": 12.0,
+        "Drop": {
+          "Id": "platinum_ore",
+          "Tags": [
+            {
+              "Id": "ore",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 2,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "strong",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "solid_petroleum": {
+      "Etalon": {
+        "Id": "solid_petroleum",
+        "Durability": 4.0,
+        "Drop": {
+          "Id": "solid_petroleum",
+          "Tags": [
+            {
+              "Id": "fuel",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 2,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "cobalt_ore": {
+      "Etalon": {
+        "Id": "cobalt_ore",
+        "Durability": 9.0,
+        "Drop": {
+          "Id": "cobalt_ore",
+          "Tags": [
+            {
+              "Id": "ore",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 3,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "weak",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "titanium_ore": {
+      "Etalon": {
+        "Id": "titanium_ore",
+        "Durability": 18.0,
+        "Drop": {
+          "Id": "titanium_ore",
+          "Tags": [
+            {
+              "Id": "ore",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 3,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "strong",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    },
+    "lavastone": {
+      "Etalon": {
+        "Id": "lavastone",
+        "Durability": 6.0,
+        "Drop": {
+          "Id": "lavastone",
+          "Tags": [
+            {
+              "Id": "fuel",
+              "_type": "System.Void"
+            },
+            {
+              "Id": "tier",
+              "Value": 3,
+              "_type": "System.Int32"
+            },
+            {
+              "Id": "quantity",
+              "Value": 1,
+              "_type": "System.Int32"
+            }
+          ]
+        }
+      }
+    }
+  }

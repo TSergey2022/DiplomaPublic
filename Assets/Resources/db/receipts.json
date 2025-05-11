@@ -1,0 +1,38 @@
+{
+  "station1": [
+    {
+      "Id": "station1.receipt1",
+      "Inputs": [
+        {
+          "Name": "station1.slot1",
+          "Requirement": {
+            "_type": "id",
+            "RequiredId": "item1"
+          }
+        }
+      ],
+      "Output": {
+        "Name": "station1.output",
+        "Processor": {
+          "_type": "simple",
+          "OutputItems": [
+            {
+              "Id": "item2",
+              "Tags": [
+                {
+                  "Id": "quantity",
+                  "Value": 10,
+                  "_type": "System.Int32"
+                },
+                {
+                  "Id": "bar",
+                  "_type": "System.Void"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

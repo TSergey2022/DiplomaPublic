@@ -1,0 +1,25 @@
+{
+  "Inventory": [],
+  "Asteroids": [
+    {
+      "Tiles": {}
+    },
+    {
+      "Tiles": {}
+    },
+    {
+      "Tiles": {}
+    }
+  ],
+  "Flags": [
+    "asteroid1"
+  ],
+  "LocationId": "Ship Garage",
+  "AsteroidId": 0,
+  "StationId": 0,
+  "PlayerPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

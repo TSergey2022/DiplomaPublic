@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2d1e54a90614a98bf2ddf2eae71c346, type: 3}
+  m_Name: GeneralData
+  m_EditorClassIdentifier: 
+  gameManagerPrefab: {fileID: 1884714875905240456, guid: fca9d2a8954447c74bc11e749d4ef165, type: 3}
+  musicManagerPrefab: {fileID: 8246053070144455888, guid: 748fb87fa4937fca8a0a3a87e45625f0, type: 3}
+  soundManagerPrefab: {fileID: 48370769780035660, guid: eca9b46165e93dad9a2293fd07321bee, type: 3}
+  fadeManagerPrefab: {fileID: 453070511614054975, guid: 0978b2a58f6730d1b94f8471d19a1cc6, type: 3}
+  playerPrefab: {fileID: 6096053739095029995, guid: 9687b2e226a191575be48897f75680f5, type: 3}
+  tiles:
+  - {fileID: 11400000, guid: d5ea45e392b48d112b0e29be39690889, type: 2}
+  - {fileID: 11400000, guid: c4d6d2a32ad4cec10b1b435ceda8f2b5, type: 2}
+  - {fileID: 11400000, guid: 796e6b1ab775e2290b73e34092cb7ed2, type: 2}
+  - {fileID: 11400000, guid: 911a879149e818e549c644504de8f688, type: 2}
+  - {fileID: 11400000, guid: f1bdf48aa362f3470a64e6e90750a017, type: 2}
+  - {fileID: 11400000, guid: f514820fb97df5be1a6d18a354afd792, type: 2}
+  - {fileID: 11400000, guid: 05cdad3360aec5973b00d924a48afe39, type: 2}
+  - {fileID: 11400000, guid: ddb0d94900db4ed768a68b51fd216a51, type: 2}
+  - {fileID: 11400000, guid: 26d1d0c920313c3a9bf67aacd6295b12, type: 2}
+  - {fileID: 11400000, guid: 60363ac92087acb4688694f1372d8450, type: 2}
+  - {fileID: 11400000, guid: a628a9afc6ddf85d5866ba29ad5003c0, type: 2}
+  - {fileID: 11400000, guid: 43a865411a79837ea9f84ef7ead391e6, type: 2}
+  puzzleGameControllerPrefab: {fileID: 9070955520844208283, guid: 9bfebd49d279e2844a272dfb14c70d0a, type: 3}
+  puzzleCanvasPrefab: {fileID: 5720760313241674615, guid: c54ccec59d833b64a9b6db953bb99242, type: 3}
+  puzzleQuestManagerPrefab: {fileID: 4558993978280774593, guid: ad6293766c7b2e54d8e3ff9152c03c4d, type: 3}

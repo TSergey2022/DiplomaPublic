@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Craft/MainMenuScene.unity
+    guid: ed7baf02ad6879b8ea7fabb55297d7e2
+  - enabled: 1
+    path: Assets/Scenes/Craft/StationScene.unity
+    guid: 3b6672d4caa01c9d0b3f882a033888bd
+  - enabled: 1
+    path: Assets/Scenes/Craft/AsteroidScene.unity
+    guid: 129f2b44028952501be9ea2ffafeafe3
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0432\u043E\u0434\u0430/Main.unity"
+    guid: 76ae5b7e440fa6948b03a7b2e2c51a25
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Hub.unity"
+    guid: 61b53374f2e10d140a3afc3df30d7688
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Scene 1.unity"
+    guid: 5120e5a91f7e33145a0a5a76abb45640
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Scene 2.unity"
+    guid: 4f47872297724104c824d1d76df857ef
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Scene 3.unity"
+    guid: 3da84e7cacb3231498102ca1d9eabb5b
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Scene 4.unity"
+    guid: ba3040670d363dc45943cb4806f54970
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Scene 5.unity"
+    guid: d19f118a87537f843b934374c0e42bbe
+  - enabled: 1
+    path: "Assets/Scenes/Puzzle/\u041F\u0440\u043E\u0435\u043A\u0442 \u042F \u043D\u0438\u0447\u0435\u0433\u043E
+      \u043D\u0435 \u0443\u0441\u043F\u0435\u043B\u0430/Scene 6.unity"
+    guid: 9fff71d62dbe24b4eb9095c0b1c16f50
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Docks.unity
+    guid: b360071fbca62014587c162bcbd4b94b
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Hub.unity
+    guid: 4c4842c3b38fc7a49bb551e186a4e54d
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Main.unity
+    guid: 94bed30cedd546e439953c894de79adf
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/PortalScene.unity
+    guid: 33f2d9de09163064dbb65be8af239165
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Ship Garage.unity
+    guid: c9795e858e6d35e47bb2a1ce5288832f
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,21 @@
+{
+  "item1": {
+    "Name": "Item 1",
+    "Description": "blah-blah",
+    "IconPath": "Resoucre/Sprites/32",
+    "Etalon": {
+      "Id": "item1",
+      "Tags": [
+        {
+          "Id": "quantity",
+          "Value": 5,
+          "_type": "System.Int32"
+        },
+        {
+          "Id": "ore",
+          "_type": "System.Void"
+        }
+      ]
+    }
+  }
+}
